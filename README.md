@@ -28,6 +28,8 @@
 * Scala Wave	https://www.youtube.com/channel/UC1VAdzkoY7M2e3msbW9Ur8w/videos
 * KotlinConf	https://www.youtube.com/playlist?list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5&app=desktop
 * HashiCorp	https://m.youtube.com/playlist?list=PL81sUbsFNc5Y-jbEC1y5BWenDoYscVv4t
+* Black Hat     https://www.youtube.com/user/BlackHatOfficialYT/playlists
+* JetBrainsTV   https://www.youtube.com/user/JetBrainsTV/playlists
 * Various	https://www.youtube.com/channel/UCipCbzfUjg7GZ-IFYpLvYWg/playlists
 * Various	https://www.youtube.com/user/Confreaks/playlists
 	
