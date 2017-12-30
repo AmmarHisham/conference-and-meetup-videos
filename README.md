@@ -35,6 +35,7 @@
 * JetBrainsTV   https://www.youtube.com/user/JetBrainsTV/playlists
 * PyData        https://www.youtube.com/user/PyDataTV/playlists
 * CppCon        https://www.youtube.com/user/CppCon/playlists
+* RustConf      https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/videos
 * Various	https://www.youtube.com/channel/UCipCbzfUjg7GZ-IFYpLvYWg/playlists
 * Various	https://www.youtube.com/user/Confreaks/playlists
 	
