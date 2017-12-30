@@ -1,9 +1,12 @@
 # Conferences	
+* Talkery https://talkery.io/
 * GOTO	https://www.youtube.com/user/GotoConferences/playlists
 * Devoxx	https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists
 * Devoxx Poland	https://www.youtube.com/channel/UCAu3kLPVR1KScr5BReBJTvg/playlists
 * Devoxx UK	https://www.youtube.com/channel/UCxIamwHotqAAdmecaKT9WpA/playlists
 * GopherCon	https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA/playlists
+* GothamGo      https://www.youtube.com/channel/UCgRpkkcigKZk52JyAOYNs6w/playlists
+* Golang UK     https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ/playlists
 * Google I/O , GDD etc.	https://www.youtube.com/user/GoogleDevelopers/playlists
 * JavaOne	https://www.youtube.com/user/java/playlists
 * Code Europe	https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/videos
@@ -30,6 +33,8 @@
 * HashiCorp	https://m.youtube.com/playlist?list=PL81sUbsFNc5Y-jbEC1y5BWenDoYscVv4t
 * Black Hat     https://www.youtube.com/user/BlackHatOfficialYT/playlists
 * JetBrainsTV   https://www.youtube.com/user/JetBrainsTV/playlists
+* PyData        https://www.youtube.com/user/PyDataTV/playlists
+* CppCon        https://www.youtube.com/user/CppCon/playlists
 * Various	https://www.youtube.com/channel/UCipCbzfUjg7GZ-IFYpLvYWg/playlists
 * Various	https://www.youtube.com/user/Confreaks/playlists
 	
