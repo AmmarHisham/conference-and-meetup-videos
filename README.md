@@ -36,6 +36,7 @@
 * PyData        https://www.youtube.com/user/PyDataTV/playlists
 * CppCon        https://www.youtube.com/user/CppCon/playlists
 * RustConf      https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/videos
+* HACKADAY      https://www.youtube.com/user/hackaday/playlists
 * Various	https://www.youtube.com/channel/UCipCbzfUjg7GZ-IFYpLvYWg/playlists
 * Various	https://www.youtube.com/user/Confreaks/playlists
 	
